@@ -19,7 +19,7 @@ FrontEnd Developer
 
 * 🌍 Я живу в России, Москва
 * ✉️  Моя почта [ekn62@bk.ru](mailto:ekn62@bk.ru)
-* ✉️  Мой телеграмм [eliseev_IT](https://t.me/eliseev_IT)
+* ✉️  Мой телеграм [eliseev_IT](https://t.me/eliseev_IT)
 
 ### Skills
 
