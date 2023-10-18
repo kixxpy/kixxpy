@@ -3,6 +3,9 @@
 
 FrontEnd Developer
 ------------------
+<p align="center">
+ <img width="600" src="assets/snake.svg" alt="snake"/>
+</p>
 
 Начинающий ваб-разработчик. Разрабатываю frontend с использованием JS(es6+) / TypeScript, React, ReduxToolkit и NextJS.
 
