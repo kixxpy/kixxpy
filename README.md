@@ -10,7 +10,7 @@
 
 Регулярно повышаю свою квалификацию, проходя курсы, читая статьи, просматривая тематические видео и разрабатываю пет проекты.
 
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -33,8 +33,6 @@
 </td></tr></table>
 
 <br/>
-
-## Connect with me
 
 <div align="center">
 <a href="https://github.com/kixxpy" target="_blank">
