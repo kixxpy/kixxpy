@@ -21,6 +21,8 @@ FrontEnd Developer
 * ✉️  Моя почта [ekn62@bk.ru](mailto:ekn62@bk.ru)
 * ✉️  Мой телеграм [eliseev_IT](https://t.me/eliseev_IT)
 
+---
+
 ### Технологии:
 
 <p align="left">
