@@ -6,6 +6,9 @@ FrontEnd Developer
 <p align="center">
  <img width="600" src="assets/snake.svg" alt="snake"/>
 </p>
+<p align="center">
+ <img width="600" src=https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47qbtulxof3r4xczpaj4muh60qhuiraikc5pyrqz2w&ep=v1_gifs_search&rid=giphy.gif&ct=g) alt="snake"/>
+</p>
 
 Начинающий ваб-разработчик. Разрабатываю frontend с использованием JS(es6+) / TypeScript, React, ReduxToolkit и NextJS.
 
