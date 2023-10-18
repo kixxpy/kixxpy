@@ -17,11 +17,13 @@ FrontEnd Developer
 
 Регулярно повышаю свою квалификацию, проходя курсы, читая статьи, просматривая тематические видео и разрабатываю пет проекты.
 
+---
+
 * 🌍 Я живу в России, Москва
 * ✉️  Моя почта [ekn62@bk.ru](mailto:ekn62@bk.ru)
 * ✉️  Мой телеграм [eliseev_IT](https://t.me/eliseev_IT)
 
---
+---
 
 ### Технологии:
 
@@ -38,11 +40,14 @@ FrontEnd Developer
 * Axios + Fetch
 * React Hook Form
 * Git / GitHub
+
+---
   
 ### Социальные сети:
 
 <p align="left"> <a href="https://www.github.com/kixxpy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/eliseevjs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+---
 
 <p align="center">
  <img width="50" src=https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47qbtulxof3r4xczpaj4muh60qhuiraikc5pyrqz2w&ep=v1_gifs_search&rid=giphy.gif&ct=g) alt="snake"/>
