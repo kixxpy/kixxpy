@@ -22,6 +22,7 @@ FrontEnd Developer
 * 🌍 Я живу в России, Москва
 * ✉️  Моя почта [ekn62@bk.ru](mailto:ekn62@bk.ru)
 * ✉️  Мой телеграм [eliseev_IT](https://t.me/eliseev_IT)
+* ✉️  Мой телеграм [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eliseev_IT)
 
 ---
 
