@@ -7,7 +7,7 @@ FrontEnd Developer
  <img width="600" src="assets/snake.svg" alt="snake"/>
 </p>
 
-Я начинающий ваб-разработчик. В работе использую JS(es6+) / TypeScript, React, ReduxToolkit и NextJS.
+Я начинающий ваб-разработчик. В работе использую JS(es6+) / TypeScript, React, ReduxToolkit, React Router и NextJS.
 
 Люблю командную работу, отлаженные процессы, нетривиальные задачи, чистый код и элегантные архитектурные решения.
 
